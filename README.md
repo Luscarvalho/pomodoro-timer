@@ -1,3 +1,3 @@
 # pomodoro-timer
 ##Edson
-##Walter
+##Walter EU
